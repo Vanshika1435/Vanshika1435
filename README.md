@@ -1,76 +1,85 @@
 <div align="center">
 
-# Vanshika
-### B.Tech Final Year · AI & ML Developer · Open to Internships
+# Hey there! I'm Vanshika 👋✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+scratch;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Flask+Web+Apps+%7C+Data+Science;Open+to+Internship+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+### 🤖 AI & ML Enthusiast | Python Developer | Building things that matter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-sharma-78431a3b4)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:53vnshii@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Explorer+🧠;Deep+Learning+%26+Computer+Vision+👁️;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-Final-year B.Tech student with hands-on experience in **Machine Learning**, **Deep Learning**, and **Python-based web development**. I enjoy building end-to-end AI solutions — from raw data to deployed applications. Currently seeking internship opportunities in AI/ML or software development.
-
-- Pursuing B.Tech (Final Year) — Delhi, India
-- Interests: Computer Vision, NLP, Sentiment Analysis, AI Applications
-- Currently exploring: Advanced Deep Learning & Model Deployment
-
----
-
-## Technical Skills
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python, HTML, CSS |
-| **ML / Deep Learning** | TensorFlow, Keras, scikit-learn, CNN, Transfer Learning |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook |
-| **Web & APIs** | Flask, REST APIs |
-| **Developer Tools** | Git, GitHub, VS Code |
+```python
+vanshika = {
+    "passion"   : ["AI", "Machine Learning", "Deep Learning"],
+    "currently" : "Building cool ML projects 🔨",
+    "learning"  : ["Neural Networks", "NLP", "Computer Vision"],
+    "fun_fact"  : "I taught a computer to detect deepfakes 👀"
+}
+```
 
 ---
 
-## Featured Projects
-
-**[Deepfake Detection using CNN](https://github.com/Vanshika1435/deepfake-detection-cnn)**
-> Detects AI-generated fake images using Convolutional Neural Networks with Transfer Learning on TensorFlow. Built to address the growing challenge of synthetic media verification in the digital age.
-
-`Python` `TensorFlow` `CNN` `Transfer Learning` `Computer Vision`
-
----
-
-**[Sentiment Analysis Web App](https://github.com/Vanshika1435/Sentiment_Analysis_)**
-> Flask web application that performs real-time sentiment analysis on text messages and CSV chat exports, complete with confidence scoring and interactive visualizations.
-
-`Python` `Flask` `NLP` `Data Visualization` `HTML/CSS`
-
----
-
-**[AI Interview Assistant](https://github.com/Vanshika1435/ai-interview-assistant)**
-> AI-powered tool to help candidates practice and prepare for technical interviews with guided question sets and feedback.
-
-`HTML` `AI APIs`
-
----
-
-**[Customer Segmentation](https://github.com/Vanshika1435/customer-segmentation)**
-> Applied unsupervised machine learning to segment customers based on behavioral data, enabling data-driven business insights.
-
-`Python` `scikit-learn` `K-Means Clustering` `Jupyter Notebook`
-
----
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vanshika1435&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika1435&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| 🔬 Project | 📝 Description | 🛠️ Tech |
+|------------|----------------|---------|
+| [🕵️ Deepfake Detection CNN](https://github.com/Vanshika1435/deepfake-detection-cnn) | Detects fake images using CNN & Transfer Learning | Python, TensorFlow |
+| [💬 Sentiment Analysis](https://github.com/Vanshika1435/Sentiment_Analysis_) | Analyze sentiment from messages & CSV files with visualization | Python, Flask, HTML |
+| [👥 Customer Segmentation](https://github.com/Vanshika1435/customer-segmentation) | ML-based customer clustering & insights | Python, Jupyter |
+| [🤖 AI Interview Assistant](https://github.com/Vanshika1435/ai-interview-assistant) | Smart interview prep tool powered by AI | HTML, JS |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vanshika1435&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika1435&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vanshika1435&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Working On
+
+- 🔭 Exploring **Generative AI & LLMs**
+- 📚 Deepening my knowledge in **Computer Vision**
+- 💡 Building more **end-to-end ML projects**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vanshika1435-181717?style=for-the-badge&logo=github)](https://github.com/Vanshika1435)
 
 </div>
 
@@ -78,6 +87,8 @@ Final-year B.Tech student with hands-on experience in **Machine Learning**, **De
 
 <div align="center">
 
-*"The best way to learn is to build."*
+⭐ **If you like my work, drop a star on my repos!** ⭐
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Vanshika1435&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
