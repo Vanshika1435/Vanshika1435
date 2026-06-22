@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there! I'm Vanshika 👋✨
+# Hey there! I'm Vanshika 
 
-### 🤖 AI & ML Enthusiast | Python Developer | Building things that matter
+### AI & ML Enthusiast | Python Developer | Building things that matter
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Explorer+🧠;Deep+Learning+%26+Computer+Vision+👁️;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
@@ -10,20 +10,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 vanshika = {
     "passion"   : ["AI", "Machine Learning", "Deep Learning"],
-    "currently" : "Building cool ML projects 🔨",
+    "currently" : "Building cool ML projects ",
     "learning"  : ["Neural Networks", "NLP", "Computer Vision"],
-    "fun_fact"  : "I taught a computer to detect deepfakes 👀"
+    "fun_fact"  : "I taught a computer to detect deepfakes "
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -39,20 +39,20 @@ vanshika = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🔬 Project | 📝 Description | 🛠️ Tech |
+|  Project |  Description |  Tech |
 |------------|----------------|---------|
-| [🕵️ Deepfake Detection CNN](https://github.com/Vanshika1435/deepfake-detection-cnn) | Detects fake images using CNN & Transfer Learning | Python, TensorFlow |
-| [💬 Sentiment Analysis](https://github.com/Vanshika1435/Sentiment_Analysis_) | Analyze sentiment from messages & CSV files with visualization | Python, Flask, HTML |
-| [👥 Customer Segmentation](https://github.com/Vanshika1435/customer-segmentation) | ML-based customer clustering & insights | Python, Jupyter |
-| [🤖 AI Interview Assistant](https://github.com/Vanshika1435/ai-interview-assistant) | Smart interview prep tool powered by AI | HTML, JS |
+| [ Deepfake Detection CNN](https://github.com/Vanshika1435/deepfake-detection-cnn) | Detects fake images using CNN & Transfer Learning | Python, TensorFlow |
+| [ Sentiment Analysis](https://github.com/Vanshika1435/Sentiment_Analysis_) | Analyze sentiment from messages & CSV files with visualization | Python, Flask, HTML |
+| [ Customer Segmentation](https://github.com/Vanshika1435/customer-segmentation) | ML-based customer clustering & insights | Python, Jupyter |
+| [ AI Interview Assistant](https://github.com/Vanshika1435/ai-interview-assistant) | Smart interview prep tool powered by AI | HTML, JS |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-<div align="center">
+<!--div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vanshika1435&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika1435&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -63,19 +63,19 @@ vanshika = {
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vanshika1435&theme=tokyonight&hide_border=true)
 
-</div>
+</div-->
 
 ---
 
-## 🌱 Currently Working On
+##  Currently Working On
 
-- 🔭 Exploring **Generative AI & LLMs**
-- 📚 Deepening my knowledge in **Computer Vision**
-- 💡 Building more **end-to-end ML projects**
+- Exploring **Generative AI & LLMs**
+- Deepening my knowledge in **Computer Vision**
+- Building more **end-to-end ML projects**
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
